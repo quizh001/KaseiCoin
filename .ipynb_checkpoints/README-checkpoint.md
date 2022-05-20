@@ -1,6 +1,6 @@
 # Unit 21: Martian Token Crowdsale
+<img svc = "images/application-image.png" width="50" height="50">
 
-![](images/application-image.png)
 
 ## Background
 

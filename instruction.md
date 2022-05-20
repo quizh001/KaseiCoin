@@ -246,3 +246,10 @@ You can also record your interactions with the executed contract as a short vide
 
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
+
+<<<<<<< HEAD
+=======
+## Video
+
+>>>>>>> 2ab027fd0d3d120e0f9a9b02bf802410b8b7ad89
+

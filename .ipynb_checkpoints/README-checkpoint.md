@@ -16,7 +16,7 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 ![](image/kasei3.png)
 
-![](image/Ganash.png)
+
 
 
 
@@ -30,6 +30,7 @@ https://user-images.githubusercontent.com/95659816/169574023-a60aaca8-b363-4fe7-
 ##Intereacting 
 ![](image/SendEth.png)
 ![](image/RecieveEth.png)
+![](image/Ganash.png)
 
 
 # Estension of the project

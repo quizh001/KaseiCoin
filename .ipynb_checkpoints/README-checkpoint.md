@@ -36,7 +36,8 @@ https://user-images.githubusercontent.com/95659816/169387617-7442adae-1714-47f1-
 https://user-images.githubusercontent.com/95659816/169574023-a60aaca8-b363-4fe7-b90a-fa3a4b5638de.mov
 >>>>>>> 307f799a1b5bec235cad3ce2a2017db1723979c2
 
-##Intereacting 
+# Intereacting with MetaMask and Ganash
+
 ![](image/SendEth.png)
 ![](image/RecieveEth.png)
 

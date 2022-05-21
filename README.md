@@ -10,23 +10,23 @@ KaseiCoin will be a fungible token that’s ERC-20 compliant. You’ll launch a 
 
 
 # KaseiCoin
-> Create the KaseiCoin Token Contract
+## Create the KaseiCoin Token Contract
 
 ![](image/kasei1.png)
 
-> Create the KaseiCoin Crowdsale Contract
+##  Create the KaseiCoin Crowdsale Contract
 
 
 ![](image/kasei2.png)
 
-> Create the KaseiCoin Deployer Contract
+## Create the KaseiCoin Deployer Contract
 
 ![](image/kasei3.png)
 
 
 
 
->Deploy and Testing the Crowdsale on a Local Blockchain
+# Deploy and Testing the Crowdsale on a Local Blockchain
 
 <<<<<<< HEAD
 =======
@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/95659816/169574023-a60aaca8-b363-4fe7-
 
 ![](image/ExtendKasei1.png)
 
->Set the `close` time to `now + 5 minutes`
+# Set the `close` time to `now + 5 minutes`
 
 ![](image/5minuntes.png)
 
